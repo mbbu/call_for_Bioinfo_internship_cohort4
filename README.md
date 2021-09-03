@@ -17,6 +17,8 @@ Application Open: **2nd September 2021**
 
 Application Deadline: **10th September 2021**
 
+Start Date: **October 2021**
+
 To apply, please complete the form in this [application Link](https://redcap.icipe.org/surveys/?s=9Y939TTNW3AN8Y7L)
 
 For queries, please [raise an issue](https://github.com/mbbu/call_for_Bioinfo_internship_cohort4/issues) in this repo. 
